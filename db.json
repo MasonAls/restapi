@@ -4,19 +4,4 @@
     "title": "Pocket Bae",
     "reports": ["A123456793", "A1234567898"]
   }
-  "A123456793": {
-    "name": "Julia S",
-    "title": "Bae Bae",
-    "reports": ["A123456793", "A1234567898"]
-  }
-  "A1234567898": {
-    "name": "Axel A",
-    "title": "Borpy Boi",
-    "reports": ["A1234567888"]
-  }
-  "A1234567888": {
-    "name": "Ernie S",
-    "title": "The Bean",
-    "reports": [" "]
-  }
 }
