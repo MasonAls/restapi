@@ -2,21 +2,21 @@
   "A1234": {
     "name": "Mason A",
     "title": "Engineer",
-    "reports": ["A1235", "A1237"]
+    "reports": ["A1235", "A1236"]
   },
   "A1235": {
    "name": "Julia S",
    "title": "RT",
-   "reports": "A1236"
+   "reports": ["A1236"]
   },
   "A1236": {
    "name": "Axel A",
    "title": "Borpi",
-   "reports": "A1237"
+   "reports": ["A1237"]
   },
   "A1237": {
    "name": "Ernie S",
    "title": "Bean",
-   "reports": " "
+   "reports": [" "]
   }
 }
