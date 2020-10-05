@@ -3,5 +3,29 @@
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
-  ]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "A123456789": {
+    "name": "Mason A",
+    "title": "Engineer"
+    "reports": ["A123456793", "A1234567898"]
+  },
+  "A123456793": {
+   "name": "Julia S"
+   "title": "RT"
+   "reports": " "
+  },
+  "A1234567898": {
+   "name": "Axel A"
+   "title": "Borpi"
+   "reports": "A1234567888"
+  },
+  "A1234567888": {
+   "name": "Ernie S"
+   "title": "Bean"
+   "reports": " "
+  }
 }
