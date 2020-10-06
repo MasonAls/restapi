@@ -2,7 +2,7 @@
   "A1234": {
     "name": "Mason A",
     "title": "Engineer",
-    "reports": ["A1235", "A1236"]
+    "reports": ["A1235", "A1237"]
   },
   "A1235": {
    "name": "Julia S",
@@ -12,7 +12,7 @@
   "A1236": {
    "name": "Axel A",
    "title": "Borpi",
-   "reports": ["A1237"]
+   "reports": ["A1234"]
   },
   "A1237": {
    "name": "Ernie S",
