@@ -17,16 +17,11 @@
   "A1237": {
    "name": "Tortilla S",
    "title": "Plant",
-   "reports": ["A1234", "A1239"]
+   "reports": ["A1234", "A1238"]
   },
   "A1238": {
    "name": "Ernie S",
    "title": "Bean",
-   "reports": [""]
-  },
-  "A1239": {
-   "name": "Pink G",
-   "title": "Axels Husband",
    "reports": [""]
   }
 }
