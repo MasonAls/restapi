@@ -15,6 +15,11 @@
    "reports": ["A1237"]
   },
   "A1237": {
+   "name": "Tortilla",
+   "title": "Plant",
+   "reports": ["A1235"]
+  },
+  "A1238": {
    "name": "Ernie S",
    "title": "Bean",
    "reports": [""]
