@@ -7,7 +7,7 @@
   "A1235": {
    "name": "Julia S",
    "title": "RT",
-   "reports": ["A1238"]
+   "reports": ["A1237"]
   },
   "A1236": {
    "name": "Axel A",
@@ -17,7 +17,7 @@
   "A1237": {
    "name": "Tortilla S",
    "title": "Plant",
-   "reports": ["A1235", "A1238"]
+   "reports": ["A1238"]
   },
   "A1238": {
    "name": "Ernie S",
